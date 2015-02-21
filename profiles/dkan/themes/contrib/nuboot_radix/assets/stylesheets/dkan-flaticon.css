@@ -1,3 +1,10 @@
+.facetapi-facet-field-license ul li.leaf a {
+  word-wrap: break-word;	
+}
+.data-and-resources .label {
+  background: #2f3352;
+}
+
 @font-face {
 	font-family: 'dkan-flaticon';
 	src:url('../fonts/dkan-flaticon.eot?-w5vqwy');
