@@ -1,3 +1,21 @@
+7.x-1.7  2015-02-20
+--------------------------
+- Adds Panels to DKAN for Drag and Drop layouts: http://docs.getdkan.com/dkan-documentation/dkan-users-guide/customize-dkan-pages-layouts-and-components-using-panels
+- Adds Open Data Schema to DKAN https://github.com/NuCivic/open_data_schema_map#open-data-schema-map
+- Adds 'saved states' to Recline data preview
+
+7.x-1.6
+---------
+ - core update to 7.34
+ - fix issues with javascript in behat tests
+ - freezing behat drupal extension to 1.0.2
+ - dkan_sitewide modules now report to github
+
+
+7.x-1.5 2014-10-15
+--------------------------
+ - Drupal core security update. Upgrades to 7.32
+
 7.x-1.4  2014-10-10
 --------------------------
  - Replaced tid hardcoding during profile install with proper taxonomy_vocabulary_machine_name_load
