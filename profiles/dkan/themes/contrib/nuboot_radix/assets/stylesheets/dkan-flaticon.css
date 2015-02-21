@@ -1,3 +1,10 @@
+div[class*="pane-facetapi"] ul li.leaf a {
+  word-wrap: break-word;	
+}
+.data-and-resources a {
+  background: #2f3352;
+}
+
 @font-face {
 	font-family: 'dkan-flaticon';
 	src:url('../fonts/dkan-flaticon.eot?-w5vqwy');
