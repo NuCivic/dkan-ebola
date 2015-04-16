@@ -8,9 +8,9 @@ core = 7.x
 package = "Organic groups"
 
 
-
-; Information added by drush on 2015-02-20
-version = "b7e3587"
+; Information added by Drupal.org packaging script on 2015-03-31
+version = "7.x-1.2"
+core = "7.x"
 project = "og_extras"
-datestamp = "1424467152"
+datestamp = "1427835485"
 
