@@ -10,4 +10,4 @@ Feature: EbolaData.org Smoke Test
     And I should see "About"
     And I should see "Powered by DKAN, a project of NuCivic"
     When I click "Datasets"
-    Then I should see "Filte by tags"
+    Then I should see "Filter by tags"
